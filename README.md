@@ -270,11 +270,11 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+    <a href="https://www.instagram.com/roblox/" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
         </a>
     <h3>
-     <a href="https://www.instagram.com/knightgamer87/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+     <a href="https://www.instagram.com/roblox/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
   Follow Me on Instagram
 </a>
     </h3>
@@ -332,7 +332,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCADJszuPQu1vT0sv5MnIMbQ&layout=extruded&title_color=808080&icon_color=808080&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCADJszuPQu1vT0sv5MnIMbQ&layout=extruded&title_color=808080&icon_color=808080&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@roblox)
 <h2 align="center"> </h2>
 <h3 align="center">Steam Profile</h3>
 <p align="center">
