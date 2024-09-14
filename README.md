@@ -310,7 +310,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 <table>
   <tr>
     <!-- Discord Widget Column -->
-    <td align="center" style="border: none;">
+    <!--td align="center" style="border: none;">
       <a href="https://discord.gg/XHS5WPxMrr">
         <img src="https://invidget.switchblade.xyz/XHS5WPxMrr" alt="Discord Widget">
       </a>
