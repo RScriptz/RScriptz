@@ -150,8 +150,6 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/RScriptz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RScriptz's GitHub Stats">
       <img src="https://github-readme-bento.vercel.app/stats/RScriptz?theme=dark" alt="RScriptz's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for RScriptz" width="400">
 
@@ -161,12 +159,12 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <br>
 
-### KenanGain/README.md activity
+### RScriptz/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/6cc4ad43826d8615346bfa8c8ca4df638d45bfd2.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-[![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/network/members)
+[![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/network/members)
 
-[![Repography](https://reporoster.com/stars/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/stargazers)
+[![Repography](https://reporoster.com/stars/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/stargazers)
 
 <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RScriptz&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
@@ -184,18 +182,84 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
     <img src="https://github-profile-trophy.vercel.app/?username=RScriptz&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=RScriptz" alt="GitHub Trophies for RScriptz">
 </details>
-
 
 
 </div>
 
 <br>
 
+# Multiple Pathways to Innovation: Explore My SaaS Products
+
+<br>
+<br>
+
+## 1.Document Whispers: AI Answers, Knowledge Revealed
+<a href="https://documentwhispers.com">View Demo</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="/saasimages/Screenshot 2024-09-08 164129.png" width="100%" alt="Unlock the Voice of PDF">
+      </a>
+    </td>
+    <td>
+      <a href="https://documentwhispers.com">
+        <img src="/saasimages/Screenshot 2024-09-08 170328.png" width="100%" alt="Document Interface">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><strong>Welcome to 'Document Whispers',</strong> the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.</p>
+      <p>Our platform not only lets you read documents as you interact with them, but also ensures that your queries are thoroughly analyzed to provide high-quality, well-researched answers. Leveraging the largest and most advanced language models, our generative AI digs deep into your questions, offering precise and insightful responses.</p>
+      <p>Built on robust serverless technology for seamless performance and protected by Clerk for top-tier authentication, 'Document Whispers' is continually evolving. Stay tuned for more innovative features that will redefine your document handling experience!</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Features and Highlights</strong></summary>
+  <table>
+    <tr>
+      <th>Upcoming Features</th>
+      <th>Features</th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li><strong>Multilingual Support</strong>: To help users worldwide engage with their documents.</li>
+          <li><strong>Mobile Application</strong>: Access Document Whispers on the go with our upcoming mobile app.</li>
+          <li><strong>Enhanced Security Measures</strong>: Additional layers of security to protect your sensitive information.</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li><strong>AI-Powered Interaction</strong>: Engage with your documents through natural language conversations.</li>
+          <li><strong>Real-Time Processing</strong>: Upload and start conversing with your documents without any delay.</li>
+          <li><strong>Advanced Query Understanding</strong>: Utilizes the latest in AI technology to comprehend and respond to inquiries accurately.</li>
+          <li><strong>Serverless Architecture</strong>: Ensures high availability and scalability without the hassle of infrastructure management.</li>
+          <li><strong>Secure Authentication</strong>: Integrates with Clerk to provide reliable and secure access to the platform.</li>
+          <li><strong>Continuous Updates</strong>: Regular updates to add new features and enhance the user experience.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Quick Start:</strong> Visit <a href="https://documentwhispers.com">Document Whispers</a> to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.
+      </td>
+    </tr>
+  </table>
+</details>
+
+
+<br>
+
+<br>
+
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats
+    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" style="margin-left: 5px;" />
   </h2>
 </div>
 
@@ -778,7 +842,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [RScriptz](https://github.com/RScriptz) | Let's change the world together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
