@@ -296,6 +296,8 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <div align="center">
 
+
+<h2 align="center"> </h2>
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
 </div>
@@ -326,12 +328,12 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
     </td>
   </tr>
 </table>
-
+<h2 align="center"> </h2>
 
 <h3 align="center">YouTube Stats</h3>
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCADJszuPQu1vT0sv5MnIMbQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
-
+<h2 align="center"> </h2>
 <h3 align="center">Steam Profile</h3>
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198828144879/">
