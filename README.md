@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rscriptz&label=Profile%20views&color=0e75b6&style=flat" alt="rscriptz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rscriptz" alt="rscriptz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rscriptz" alt="rscriptz" /></a> </p>
 
 - 🔭 I’m currently working on [RNG Mayhem](https://www.roblox.com/games/17531378908/RNG-Mayhem-RELEASE#!/storehttps://www.roblox.com/games/17531378908/RNG-Mayhem-RELEASE)
 
@@ -40,5 +40,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rscriptz&" alt="rscriptz" /></p>
 
 - 📄 **Top Languages:**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rscriptz&show_icons=true&locale=en&layout=compact" alt="rscriptz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rscriptz&show_icons=true&locale=en&layout=compact" alt="rscriptz" /></p>
 
