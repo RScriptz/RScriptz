@@ -150,8 +150,12 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
   <summary style="font-size: 1.17em; font-weight: bold;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
-      <img src="https://github-readme-bento.vercel.app/stats/RScriptz?theme=dark" alt="RScriptz's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for RScriptz" width="400">
+<div>
+    <img src="https://github-readme-bento.vercel.app/stats/RScriptz?theme=dark" alt="RScriptz's GitHub Stats">
+</div>
+<div>
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=RScriptz" alt="Advanced GitHub Stats for RScriptz" width="400">
+</div>
 
 
 </details>
