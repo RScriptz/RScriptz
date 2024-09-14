@@ -170,6 +170,15 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 [![Repography](https://reporoster.com/stars/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/stargazers)
 <h2 align="center"> </h2>
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy 🏆</summary>
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=RScriptz&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+</details>
+
+<br>
+
 <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RScriptz&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
@@ -178,14 +187,6 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RScriptz/RScriptz&type=Date&theme=dark" />
   </a>
 
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy 🏆</summary>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=RScriptz&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 </details>
 
 
