@@ -200,7 +200,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 <br>
 
 ## 1. anticheat.me: Open-source revolutionary Roblox anticheats!
-<a href="https://anticheat.me">View Demo</a>
+<a href="https://anticheat.me">👀 View Demo 👀</a>
 <table>
   <tr>
     <td>
