@@ -205,12 +205,12 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
   <tr>
     <td>
       <a href="https://anticheat.me">
-        <img src="/saasimages/Screenshot 2024-09-08 164129.png" width="100%" alt="Unlock the Voice of PDF">
+        <img src="https://github.com/user-attachments/assets/7aba27a0-810f-49f3-b84e-a80b1255bf8b" width="100%" alt="Home Page">
       </a>
     </td>
     <td>
       <a href="https://anticheat.me">
-        <img src="/saasimages/Screenshot 2024-09-08 170328.png" width="100%" alt="Document Interface">
+        <img src="https://github.com/user-attachments/assets/cf603972-604b-4b8b-936b-82a95d7ee690" width="100%" alt="Anticheat Page">
       </a>
     </td>
   </tr>
