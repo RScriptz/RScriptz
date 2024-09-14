@@ -169,7 +169,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/network/members)
 
 [![Repography](https://reporoster.com/stars/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/stargazers)
-<br>
+<h2 align="center"> </h2>
 <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RScriptz&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
