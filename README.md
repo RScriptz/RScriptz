@@ -21,17 +21,17 @@
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@roblox" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40roblox&subtitle=WIP&size=square" alt="roblox">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40roblox&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/roblox/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Froblox%2F&subtitle=WIP&size=square" alt="roblox">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Froblox%2F&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/roblox/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2roblox%2F&subtitle=WIP&size=square" alt="roblox">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2roblox%2F&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
@@ -43,17 +43,17 @@
   <tr>
     <td align="center">
       <a href="https://twitch.tv/roblox" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Froblox&subtitle=WIP&size=square" alt="roblox">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Froblox&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/roblox" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Froblox&subtitle=WIP&size=square" alt="roblox">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Froblox&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
       <a href="https://www.reddit.com/user/roblox" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Froblox&subtitle=WIP&size=square" alt="roblox">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Froblox&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
@@ -63,7 +63,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/RScriptz" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRScriptz&subtitle=%2FRScriptz&size=square" alt="RScriptz">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRScriptz&subtitle=@RScriptz&size=square" alt="RScriptz">
       </a>
     </td>
   </tr>
