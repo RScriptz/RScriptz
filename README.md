@@ -190,7 +190,6 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 </details>
 
-<h2 align="center"> </h2>
 </div>
 
 <br>
@@ -692,53 +691,53 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="AI Content Creation"/>
       <br>
-      <strong>AI-Powered Content Creation</strong>
+      <strong>Boat Blitz</strong>
       <br>
-      Automated content generation using various LLMs
+      The best Build A Boat For Treasure script
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="MapleLaw AI"/>
       <br>
-      <strong>MapleLaw AI</strong>
+      <strong>Breaking Blitz</strong>
       <br>
-      Legal information assistant for Canadian citizens
+      The first, and best for a while, Break In 2 script
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="Sara AI"/>
       <br>
-      <strong>Sara AI for Canadian Tire</strong>
+      <strong>EasyPath</strong>
       <br>
-      AI-enhanced shopping experience
+      Easy to use Roblox pathfinding library
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="4K60 Streaming"/>
       <br>
-      <strong>4K60 Streaming Setup</strong>
+      <strong>Anticheat.me</strong>
       <br>
-      High-performance streaming with instant replay
+      Self made open sourcde anticheats for Roblox games
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="Cloud-Native Web Apps"/>
       <br>
-      <strong>Cloud-Native Web Apps</strong>
+      <strong>GFN Queues</strong>
       <br>
-      Next.js, React, Django with Docker & Kubernetes
+      A Discord bot that checks the GFN server queues, made in Python
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
       <br>
-      <strong>Your Next Project?</strong>
+      <strong>Bosteroid Search</strong>
       <br>
-      Let's collaborate on something amazing!
+      A Discord bot that uses Boosteroid's search api to let you search for games via discord, made in Python
     </td>
   </tr>
 </table>
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
-Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
+Explore my full on Romanian playlist, it has all types of rromanian rap, trap, motivational songs, memey songs, and basically every other popular Romanian song! Over 24 hours and 500 songs in a single spotify playlist!
 <h5 align="center">Enjoy the tunes!</h5>
 <p align="center">
 <a href="https://open.spotify.com/playlist/4ol4GW37TCWrwaibOdRSs9?si=7df44399e2734593" target="_blank">
