@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rscriptz" alt="rscriptz" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rscriptz&show_icons=true&locale=en" alt="rscriptz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rscriptz&show_icons=true&locale=en" alt="rscriptz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rscriptz&" alt="rscriptz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rscriptz&" alt="rscriptz" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rscriptz&show_icons=true&locale=en&layout=compact" alt="rscriptz" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rscriptz&show_icons=true&locale=en&layout=compact" alt="rscriptz" /></p>
 
