@@ -15,55 +15,55 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.anticheat.me/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=My+Website&size=square" alt="Kenan Gain">
+      <a href="https://gist.github.com/RScriptz/77122289d700589ba707d6a50593e128" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=My+Experiences&size=square" alt="Resume">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.youtube.com/@roblox" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40roblox&subtitle=WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.instagram.com/roblox/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Froblox%2F&subtitle=WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://www.linkedin.com/in/roblox/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2roblox%2F&subtitle=WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
-      <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://facebook.com/roblox" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Froblox&subtitle=@WIP&size=square" alt="roblox">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
+      <a href="https://twitch.tv/roblox" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Froblox&subtitle=WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
+      <a href="https://x.com/roblox" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Froblox&subtitle=WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
+      <a href="https://www.reddit.com/user/roblox" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Froblox&subtitle=WIP&size=square" alt="roblox">
       </a>
     </td>
     <td align="center">
       <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FXHS5WPxMrr&subtitle=Boat+Blitz&size=square" alt="Boat Blitz">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://github.com/RScriptz" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRScriptz&subtitle=%2FRScriptz&size=square" alt="RScriptz">
       </a>
     </td>
   </tr>
