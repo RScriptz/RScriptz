@@ -332,7 +332,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCADJszuPQu1vT0sv5MnIMbQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCADJszuPQu1vT0sv5MnIMbQ&layout=extruded&title_color=808080&icon_color=808080&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
 <h2 align="center"> </h2>
 <h3 align="center">Steam Profile</h3>
 <p align="center">
@@ -342,7 +342,9 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 </p>
 
 </div>
+<br>
 
+<br>
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
 <h3 align="center">Web Development</h3>
