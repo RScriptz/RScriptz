@@ -330,12 +330,12 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCADJszuPQu1vT0sv5MnIMbQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
 
 <h3 align="center">Steam Profile</h3>
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
+  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199725478043&show_in_game_bg=true&show_recent_game_bg=true"/>
   </a>
 </p>
 
