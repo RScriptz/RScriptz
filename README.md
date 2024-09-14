@@ -259,7 +259,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" style="margin-left: 5px;" />
+    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 0px;" />
   </h2>
 </div>
 
