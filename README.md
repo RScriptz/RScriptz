@@ -165,7 +165,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 ### RScriptz/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/6cc4ad43826d8615346bfa8c8ca4df638d45bfd2.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
+<h2 align="center"> </h2>
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/network/members)
 
 [![Repography](https://reporoster.com/stars/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/stargazers)
@@ -189,7 +189,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 </details>
 
-
+<h2 align="center"> </h2>
 </div>
 
 <br>
