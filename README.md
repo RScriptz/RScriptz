@@ -707,7 +707,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
       <br>
       <strong>EasyPath</strong>
       <br>
-      Easy to use Roblox pathfinding library
+      Easy to use Roblox pathfinding library implementation
     </td>
   </tr>
   <tr>
@@ -723,21 +723,21 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
       <br>
       <strong>GFN Queues</strong>
       <br>
-      A Discord bot that checks the GFN server queues, made in Python
+      A Discord bot that checks the GFN server queues
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
       <br>
       <strong>Bosteroid Search</strong>
       <br>
-      A Discord bot that uses Boosteroid's search api to let you search for games via discord, made in Python
+      A Discord bot that uses Boosteroid's search api
     </td>
   </tr>
 </table>
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
-Explore my full on Romanian playlist, it has all types of rromanian rap, trap, motivational songs, memey songs, and basically every other popular Romanian song! Over 24 hours and 500 songs in a single spotify playlist!
+Explore my full on Romanian playlist, it has all types of Romanian rap, trap, motivational songs, memey songs, and basically every other popular Romanian song! Over 24 hours and 500 songs in a single spotify playlist!
 <h5 align="center">Enjoy the tunes!</h5>
 <p align="center">
 <a href="https://open.spotify.com/playlist/4ol4GW37TCWrwaibOdRSs9?si=7df44399e2734593" target="_blank">
@@ -824,18 +824,18 @@ Explore my full on Romanian playlist, it has all types of rromanian rap, trap, m
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:RScriptz@cock.li" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=RScriptz@cock.li&size=square" alt="RScriptz" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786" style="margin: 10px;">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Romania-1234567890&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Romania-1234567890&size=square" alt="Romania-1234567890" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008" style="margin: 10px;">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-0987654321&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-0987654321&size=square" alt="India-0987654321" style="margin: 10px;">
       </a>
     </td>
   </tr>
