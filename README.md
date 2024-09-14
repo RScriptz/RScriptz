@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Student | Gamer | Developer
 </p>
 
 <div align="center">
@@ -194,31 +194,31 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 
 <br>
 
-# Multiple Pathways to Innovation: Explore My SaaS Products
+# Upcoming Revolutionary Projects
 
 <br>
 <br>
 
-## 1.Document Whispers: AI Answers, Knowledge Revealed
-<a href="https://documentwhispers.com">View Demo</a>
+## 1. anticheat.me: Open-source revolutionary Roblox anticheats!
+<a href="https://anticheat.me">View Demo</a>
 <table>
   <tr>
     <td>
-      <a href="https://documentwhispers.com">
+      <a href="https://anticheat.me">
         <img src="/saasimages/Screenshot 2024-09-08 164129.png" width="100%" alt="Unlock the Voice of PDF">
       </a>
     </td>
     <td>
-      <a href="https://documentwhispers.com">
+      <a href="https://anticheat.me">
         <img src="/saasimages/Screenshot 2024-09-08 170328.png" width="100%" alt="Document Interface">
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <p><strong>Welcome to 'Document Whispers',</strong> the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.</p>
-      <p>Our platform not only lets you read documents as you interact with them, but also ensures that your queries are thoroughly analyzed to provide high-quality, well-researched answers. Leveraging the largest and most advanced language models, our generative AI digs deep into your questions, offering precise and insightful responses.</p>
-      <p>Built on robust serverless technology for seamless performance and protected by Clerk for top-tier authentication, 'Document Whispers' is continually evolving. Stay tuned for more innovative features that will redefine your document handling experience!</p>
+      <p><strong>Welcome to 'anticheat.me',</strong> the future of Roblox anticheats. This modern, easy to use website offers a lot of anticheats, that run on both server run context aswell as client run context, they are fully open source and you can use them for anything!</p>
+      <p>Our platform not only lets you easily implement powerful anticheat methods into your Roblox game, but it also lets you contribute to the anticheat library, with your well deserved credits! Just DM me on discord with your anticheat and it will get added!</p>
+      <p>Our website is continuously evolving, so make sure to check back daily for new anticheats and website features, the more traffic we get the more we will focus on the project!</p>
     </td>
   </tr>
 </table>
@@ -233,25 +233,25 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
     <tr>
       <td valign="top">
         <ul>
-          <li><strong>Multilingual Support</strong>: To help users worldwide engage with their documents.</li>
-          <li><strong>Mobile Application</strong>: Access Document Whispers on the go with our upcoming mobile app.</li>
-          <li><strong>Enhanced Security Measures</strong>: Additional layers of security to protect your sensitive information.</li>
+          <li><strong>Anticheat Ratings</strong>: To help users check the quality of the uploaded anticheats.</li>
+          <li><strong>Mobile Scaling</strong>: Better mobile website scaling.</li>
+          <li><strong>Enhanced Security Measures</strong>: Additional layers of security to prevent the website from being taken down.</li>
         </ul>
       </td>
       <td valign="top">
         <ul>
-          <li><strong>AI-Powered Interaction</strong>: Engage with your documents through natural language conversations.</li>
-          <li><strong>Real-Time Processing</strong>: Upload and start conversing with your documents without any delay.</li>
-          <li><strong>Advanced Query Understanding</strong>: Utilizes the latest in AI technology to comprehend and respond to inquiries accurately.</li>
-          <li><strong>Serverless Architecture</strong>: Ensures high availability and scalability without the hassle of infrastructure management.</li>
-          <li><strong>Secure Authentication</strong>: Integrates with Clerk to provide reliable and secure access to the platform.</li>
+          <li><strong>Easy To Use Layout</strong>: The website is extremely straight forward, making it easy to use.</li>
+          <li><strong>Visually Pleasing</strong>: The website's design is visually pleasing.</li>
+          <li><strong>Quality Anticheats</strong>: Utilizes the most unused methods to help patch cheats.</li>
+          <li><strong>Serverless Architecture</strong>: Ensures high availability and scalability without the hassle and performance issues of it running on the server</li>
+          <li><strong>Server Architecture</strong>: Integrates with the server to provide unbypassable anticheats.</li>
           <li><strong>Continuous Updates</strong>: Regular updates to add new features and enhance the user experience.</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <strong>Quick Start:</strong> Visit <a href="https://documentwhispers.com">Document Whispers</a> to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.
+        <strong>Quick Start:</strong> Visit <a href="https://anticheat.me">anticheat.me</a> to start protecting your Roblox game with our revolutionary anticheats!
       </td>
     </tr>
   </table>
