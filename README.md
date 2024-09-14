@@ -166,6 +166,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 ### RScriptz/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/6cc4ad43826d8615346bfa8c8ca4df638d45bfd2.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 <h2 align="center"> </h2>
+
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/network/members)
 
 [![Repography](https://reporoster.com/stars/dark/RScriptz/RScriptz)](https://github.com/RScriptz/RScriptz/stargazers)
@@ -300,7 +301,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
 </div>
   <h3>
-    <a href="https://discord.gg/YdDyV6QqEN">
+    <a href="https://discord.gg/XHS5WPxMrr">
       Join Our Discord Community
     </a>
   </h3>
@@ -310,18 +311,18 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
   <tr>
     <!-- Discord Widget Column -->
     <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
+      <a href="https://discord.gg/XHS5WPxMrr">
+        <img src="https://invidget.switchblade.xyz/XHS5WPxMrr" alt="Discord Widget">
       </a>
     </td>
     <!-- Discord Banner Column -->
     <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
+      <img src="https://discord.com/api/guilds/1115670765027721260/widget.png?style=banner3" alt="Discord Banner 3"/>
     </td>
     <!-- Discord Presence Column -->
     <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
+      <a href="https://discord.com/users/942332711903838210">
+        <img src="https://lanyard.cnrad.dev/api/942332711903838210" alt="Discord Presence">
       </a>
     </td>
   </tr>
