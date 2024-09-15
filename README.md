@@ -115,25 +115,25 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/RScriptz/PathfindingLibrary">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RScriptz&PathfindingLibrary&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/RScriptz/SuperCheat">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RScriptz&repo=SuperCheat&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/RScriptz/RobloxScripts">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RScriptz&repo=RobloxScripts&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/RScriptz/Open-Source">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RScriptz&repo=Open-Source&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
