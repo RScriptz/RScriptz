@@ -116,7 +116,7 @@ A Romanian developer. Prior Roblox exploiter, years of luau experience, currentl
     <tr>
       <td>
         <a href="https://github.com/RScriptz/PathfindingLibrary">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RScriptz&PathfindingLibrary&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RScriptz&repo=PathfindingLibrary&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
